@@ -1,1 +1,7 @@
 env/
+src/*.sqlite3
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+*.env
