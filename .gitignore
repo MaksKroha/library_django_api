@@ -5,3 +5,4 @@ __pycache__/
 *.so
 *.egg-info/
 *.env
+src/main/settings.py
